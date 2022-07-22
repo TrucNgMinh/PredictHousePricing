@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Freelance\\PricePredict\\HousePricePrediction\\HousePricePrediction.csproj": {}
+    "C:\\Users\\trucb\\OneDrive\\Documents\\GitHub\\PredictiveHousingPriceDemo\\HousePricePrediction.csproj": {}
   },
   "projects": {
-    "D:\\Freelance\\PricePredict\\HousePricePrediction\\HousePricePrediction.csproj": {
+    "C:\\Users\\trucb\\OneDrive\\Documents\\GitHub\\PredictiveHousingPriceDemo\\HousePricePrediction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Freelance\\PricePredict\\HousePricePrediction\\HousePricePrediction.csproj",
+        "projectUniqueName": "C:\\Users\\trucb\\OneDrive\\Documents\\GitHub\\PredictiveHousingPriceDemo\\HousePricePrediction.csproj",
         "projectName": "HousePricePrediction",
-        "projectPath": "D:\\Freelance\\PricePredict\\HousePricePrediction\\HousePricePrediction.csproj",
+        "projectPath": "C:\\Users\\trucb\\OneDrive\\Documents\\GitHub\\PredictiveHousingPriceDemo\\HousePricePrediction.csproj",
         "packagesPath": "C:\\Users\\trucb\\.nuget\\packages\\",
-        "outputPath": "D:\\Freelance\\PricePredict\\HousePricePrediction\\obj\\",
+        "outputPath": "C:\\Users\\trucb\\OneDrive\\Documents\\GitHub\\PredictiveHousingPriceDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

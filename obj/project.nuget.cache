@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g8cWpPg+qH7MY9J0h0XPE4uKVOP7P8YAh930qiDATqNSnRFx3AGRl/MMO97HSU2enSsSTCqHCECXy/DibylVdg==",
+  "dgSpecHash": "s5QkUEJldKBgtLhJ8B870IH+mZlTyEXYFbmgOydUIM2Fu9tOQfNNvjwpFZQtiCveCV4qS7bOUTGc6apXus6TKg==",
   "success": true,
-  "projectFilePath": "D:\\Freelance\\PricePredict\\HousePricePrediction\\HousePricePrediction.csproj",
+  "projectFilePath": "C:\\Users\\trucb\\OneDrive\\Documents\\GitHub\\PredictiveHousingPriceDemo\\HousePricePrediction.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trucb\\.nuget\\packages\\lightgbm\\2.3.1\\lightgbm.2.3.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",
